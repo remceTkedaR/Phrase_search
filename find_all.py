@@ -1,7 +1,7 @@
+# This is a sample Python script.
 
-#
-
-#
+# Text phrase search in *.xlsx files
+# -----------------------------------
 
 import os
 import xlrd
