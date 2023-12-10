@@ -1,7 +1,14 @@
-# This is a sample Python script.
-
-# Text phrase search in *.xlsx files
-# -----------------------------------
+# //=============================================================================
+# //Radosław Tecmer)
+# //(c)Copyright (2023) free of copyright
+# //-----------------------------------------------------------------------------
+# //This is a sample Python script.
+# //Text phrase search in *.xlsx files
+# //-----------------------------------------------------------------------------
+# //contact:
+# //https://github.com/remceTkedaR
+# //radek69tecmer@gmail.com
+# //=============================================================================
 
 import os
 import xlrd
